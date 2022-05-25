@@ -1,0 +1,19 @@
+/*=========================================================================================
+  File Name: _awesomeSwiper.scss
+  Description: Styles for awesome swiper plugin
+  ----------------------------------------------------------------------------------------
+  Item Name: Education Template
+    Author: David
+  Author URL: https://www.notion.so/I-m-Different-I-m-David-babd4579585441d684888acd0a5ca8f8
+==========================================================================================*/
+
+
+.swiper-pagination-bullet-active {
+  background: rgba(var(--vs-primary),1) !important;
+}
+
+.swiper-pagination-progressbar {
+  .swiper-pagination-progressbar-fill {
+    background: rgba(var(--vs-primary),1) !important;
+  }
+}
